@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anki0199&theme=dark&show_icons=true&locale=en" alt="anki0199" width="410px" /></p>
 
-[Source of the GIF](https://cz.pinterest.com/pin/630363279101958553/?nic_v3=1a2k3MrI7)
+[Source of the GIF]([https://cz.pinterest.com/pin/630363279101958553/?nic_v3=1a2k3MrI7](https://pin.it/tvXbDX8))
