@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+<img align="right" alt="Coding" id="gif" width="380" src="https://debbie-sketch.tumblr.com/image/185063690584" />
 
 <h1>Hi, I'm Ankita</h1>
 
