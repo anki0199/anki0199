@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <br/>
-<div align="center">
+<div >
    
   <a href="https://twitter.com/serene0199">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/serene0199?color=blue&style=for-the-badge">
@@ -53,14 +53,14 @@ Here are some ideas to get you started:
   <table>
   <tr>
   <td width="45%">
-  <a href="http://www.github.com/aniqatc"><img src="https://streak-stats.demolab.com?user=anki0199&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a> 
-    <a href="http://www.github.com/aniqatc"><img src="https://streak-stats.demolab.com?user=anki0199&theme=midnight-purple&border_radius=5.6"/></a> 
-    <a href="http://www.github.com/aniqatc"><img src="https://streak-stats.demolab.com?user=anki0199&theme=material-palenight&border_radius=5.6"/></a> 
-      <a href="http://www.github.com/aniqatc"><img src="https://streak-stats.demolab.com?user=anki0199&theme=jolly&border_radius=5.6"/></a> 
-      <a href="http://www.github.com/aniqatc"><img src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB"/></a> 
+  <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a> 
+    <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=midnight-purple&border_radius=5.6"/></a> 
+    <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=material-palenight&border_radius=5.6"/></a> 
+      <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=jolly&border_radius=5.6"/></a> 
+      <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB"/></a> 
   </td>
   <td width="45%">
-   <a href="http://www.github.com/aniqatc"><img src="https://github-readme-stats.vercel.app/api?username=anki0199&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" /></a>
+   <a href="http://www.github.com/anki0199"><img src="https://github-readme-stats.vercel.app/api?username=anki0199&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" /></a>
 
   </table>
   
