@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3>A passionate front-end developer</h3>
 
 - 💻  I love coding and designing web applications
-- 🌱  I’m currently learning **React, Saas, & Tailwind**
+- 🌱  I’m currently learning **React, Sass, & Tailwind**
 - 👯  Looking forward to connect with people who have similar tech interest like me.
 
 <h3 align="left">Languages and Tools I have used so far:</h3>
