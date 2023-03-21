@@ -1,4 +1,5 @@
-### Hi there 👋
+### Note:- still updating this readme
+
 
 <!--
 **anki0199/anki0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <img align="right" alt="Coding" id="gif" width="380" src="https://64.media.tumblr.com/533bcf9ea232dccc8dcd070b4d03d022/tumblr_prwyedU4el1tf04pfo1_640.gifv" />
 
@@ -37,12 +39,12 @@ Here are some ideas to get you started:
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anki0199&theme=dark&show_icons=true&locale=en&layout=compact" alt="anki0199" width="400px"/></p>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anki0199&theme=dark&show_icons=true&locale=en" alt="anki0199" width="410px" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anki0199&theme=dark&show_icons=true&locale=en&layout=compact" alt="anki0199" width="400px"/></p>
 </div>
+
 <br/>
 <br/>
+
 <div >
    
   <a href="https://twitter.com/serene0199">
@@ -53,17 +55,36 @@ Here are some ideas to get you started:
   <table>
   <tr>
   <td width="45%">
-  <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a> 
-    <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=midnight-purple&border_radius=5.6"/></a> 
-    <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=material-palenight&border_radius=5.6"/></a> 
-      <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=jolly&border_radius=5.6"/></a> 
-      <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB"/></a> 
+  <a href="http://www.github.com/anki0199"><img src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB"/></a>           
+      
   </td>
   <td width="45%">
-   <a href="http://www.github.com/anki0199"><img src="https://github-readme-stats.vercel.app/api?username=anki0199&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" /></a>
+   <a href="http://www.github.com/anki0199"><img src="https://github-readme-stats.vercel.app/api?username=anki0199&show_icons=true&hide_border=true&border_radius=10&theme=omni" /></a>
 
   </table>
-  
  
 </div>
+    
+    ## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=anki0199&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB&border=73EB56C3&stroke=B7A1EB&sideNums=5FEB77&dates=A660E2EC&sideLabels=43ADEBEC" width="48%" >
+    <img  src="https://github-readme-stats.vercel.app/api?username=anki0199&count_private=true&show_icons=true&hide_border=true&theme=radical" width="48%" align="right" >
+    <img  src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB&border=73EB56C3&stroke=B7A1EB&sideNums=5FEB77&dates=A660E2EC&sideLabels=43ADEBEC&background=210730EB" width="48%" >
+<br>
+
+
+<br>
+
+<p align="center">You can connect with me on:</p>
+
+<p align="center">
+ 
+<a href="https://twitter.com/serene0199" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
+</p>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=anki0199.anki0199" alt="Ankita's :: Visitor's Count" /></p>
+    
 [Source of the GIF](https://pin.it/nXLl4vz)
