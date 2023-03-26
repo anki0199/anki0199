@@ -67,10 +67,10 @@ Here are some ideas to get you started:
     
     ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=anki0199&theme=nightowl&show_icons=true&locale=en&icon_color=31E4EB&border_color=73EB56C3&text_color=5FEB77&bg_color=210730EB" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=anki0199&count_private=true&show_icons=true&hide_border=true&theme=radical" width="48%" align="right" >
 <img  src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB&border=73EB56C3&stroke=B7A1EB&sideNums=5FEB77&dates=A660E2EC&sideLabels=43ADEBEC" width="48%" >
-    <img  src="https://github-readme-stats.vercel.app/api?username=anki0199&count_private=true&show_icons=true&hide_border=true&theme=radical" width="48%" align="right" >
-    <img  src="https://streak-stats.demolab.com?user=anki0199&theme=modern-lilac2&border_radius=5.6&ring=C02095EE&fire=31E4EB&border=73EB56C3&stroke=B7A1EB&sideNums=5FEB77&dates=A660E2EC&sideLabels=43ADEBEC&background=210730EB" width="48%" >
+   
+    
 <br>
 
 
