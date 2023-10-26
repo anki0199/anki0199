@@ -71,14 +71,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">You can connect with me on:</p>
 
-<p align="center">
- 
-<a href="https://twitter.com/serene0199" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-
-</p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=anki0199.anki0199" alt="Ankita's :: Visitor's Count" /></p>
     
