@@ -47,10 +47,6 @@ Here are some ideas to get you started:
     ## Github Status 🏆
 <div >
    
-  <a href="https://twitter.com/serene0199">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/serene0199?color=blue&style=for-the-badge">
-  </a>   
-  <a href="https://twitter.com/serene0199"><img src="https://komarev.com/ghpvc/?username=serene0199&style=for-the-badge"></a>
 
   <table>
   <tr>
